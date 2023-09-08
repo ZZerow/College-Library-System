@@ -1,5 +1,5 @@
-College-Library-System
-=======================
+# College-Library-System
+
 ```
 python main.py
 ```
@@ -25,7 +25,6 @@ python main.py
 #### 5. overdueNo : the number of books to overdue
 #### Operators : ==, -=, OR
 #### Control statements : If, For, While, Break, Continue 
-
-
+----------------
 This program is created by Juyoung Lee, MSc(Datascience), Christ University.
 * contact : <dudwn03090@gmail.com>
