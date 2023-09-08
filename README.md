@@ -4,7 +4,7 @@
 python main.py
 ```
 
-### RULES :
+### RULES
 ------------
 #### 1. When student's number of overdue overs 5, he/she can't check out books. 
 #### 2. Overdue is Only 10days. 
@@ -16,7 +16,7 @@ python main.py
 #### 2. If the user has remaining books when trying to return book, overdueDayLeft will be same as before. 
 #### 3. Eventhough user bring all the overdue books, user's overdueNo will be still same. 
 
-### Variables : 
+### Variables 
 ----------------
 #### 1. name : Student name 
 #### 2. bookNo : The number of books are checked out currently
